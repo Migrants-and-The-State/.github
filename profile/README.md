@@ -1,14 +1,3 @@
-## Hi there 👋
+**What is Migrants and the State?**
 
-This is a codespace for [Migrants and the State: Unlocking the Potential of A-files for the Histories of U.S. Immigration](https://digitalhumanities.nyu.edu/projects/migrants-state/).
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+*[Migrants and the State: Unlocking the Potential of A-files for the Histories of U.S. Immigration](https://migrantsandthestate.org/)* is a collaborative, interdisciplinary digital project that aims to provide curated access to the hundreds of thousands of migrant records held by the U.S. National Archives (NARA). These records, known as A-files, open a rare window on migrant experiences and the operations of the administrative state and have exceptional potential for humanities research as well as for explorations in personal, family, and community history. 
